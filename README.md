@@ -3,5 +3,5 @@ This is the documentation of my projects related to statistics and spatial data 
 currently using python language
 
 Lists of projects:
--Requesting spatial features by using API
--Web Scraping SINTA (Indonesia Journal Index)
+(1) Requesting spatial features by using API
+(2) Web Scraping SINTA (Indonesia Journal Index)
